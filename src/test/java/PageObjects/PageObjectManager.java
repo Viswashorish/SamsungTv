@@ -29,7 +29,7 @@ public class PageObjectManager
 		
 		return offers;
 		
-		//master = AB
+		//this is Supriya
 	}
 
 }

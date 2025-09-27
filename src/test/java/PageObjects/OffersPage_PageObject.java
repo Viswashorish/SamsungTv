@@ -32,6 +32,6 @@ WebDriver driver;
 	public void clickOn_Link()
 	{
 		driver.findElement(link).click();
-		//Master = AB
+		//This is Supriya
 	}
 }

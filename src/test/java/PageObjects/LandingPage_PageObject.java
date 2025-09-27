@@ -27,6 +27,7 @@ public class LandingPage_PageObject
 	{
 		return driver.findElement(vegName).getText();
 		// This is Supriya 
+		//Lavanya challo - 9:43
 	}
 
 }

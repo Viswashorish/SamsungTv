@@ -13,5 +13,7 @@ Feature: Validating common vegetables on both dashboard and offers page
   Then What Can I do My dear friend
   
   Then lets see what I am think about it
+  
+  Then Chiranjeevi not called to balakrishna garu
     
 

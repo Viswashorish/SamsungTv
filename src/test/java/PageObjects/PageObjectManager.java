@@ -30,6 +30,7 @@ public class PageObjectManager
 		return offers;
 		
 		//this is Supriya
+		//Mastee is the latest one
 	}
 
 }

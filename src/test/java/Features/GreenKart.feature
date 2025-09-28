@@ -21,6 +21,9 @@ Feature: Validating common vegetables on both dashboard and offers page
   
   Then came final report 
     
-    
-    //MAJJJJA
+  
+  //Naa peru Viswanadh 
+  //Naa vuru India
+  //naa Job software
+  // naa jeenka
 

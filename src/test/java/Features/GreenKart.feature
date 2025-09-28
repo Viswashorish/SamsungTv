@@ -17,5 +17,8 @@ Feature: Validating common vegetables on both dashboard and offers page
   Then Chiranjeevi not called to balakrishna garu
   
   Then Balakrishna replied to chiranjeevi today 10:50
+  
+  
+  Then came final report 
     
 

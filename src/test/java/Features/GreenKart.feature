@@ -21,4 +21,6 @@ Feature: Validating common vegetables on both dashboard and offers page
   
   Then came final report 
     
+    
+    //MAJJJJA
 
